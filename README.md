@@ -1,2 +1,2 @@
 # Jquery_Practicing
-Just Playing with Jquery
+Applying Jquery on a web page. 
